@@ -4,8 +4,8 @@
 
 ### Can be accessed here https://rooms-server.firebaseapp.com/
 
-### To Run
-	#### Do an npm install in functions folder
-	#### Do an npm install in client folder
-	#### Do an ng build in client folder
-	#### run firebase serve --only functions,hosting
+## Build
+	1. Do an npm install in functions folder
+	2. Do an npm install in client folder
+	3. Do an ng build in client folder
+	4. Run firebase serve --only functions,hosting
