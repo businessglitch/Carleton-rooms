@@ -1,0 +1,50 @@
+[debug] [2018-08-18T16:27:09.862Z] ----------------------------------------------------------------------
+[debug] [2018-08-18T16:27:09.865Z] Command:       /usr/local/bin/node /Users/fahadhayat/.node/bin/firebase serve --only functions,hosting
+[debug] [2018-08-18T16:27:09.865Z] CLI Version:   3.18.5
+[debug] [2018-08-18T16:27:09.865Z] Platform:      darwin
+[debug] [2018-08-18T16:27:09.865Z] Node Version:  v8.11.3
+[debug] [2018-08-18T16:27:09.938Z] Time:          Sat Aug 18 2018 12:27:09 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:09.938Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-18T16:27:10.017Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-18T16:27:10.017Z] > authorizing via signed-in user
+[debug] [2018-08-18T16:27:10.019Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-08-18T16:27:10.020Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ { refresh_token: '1/9FLQuimykHEUG7H1AhP7hNJG5Ov0PiHRfd2bqIc1eMo',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Sat Aug 18 2018 12:27:10 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:10.737Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-18T16:27:10.923Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/rooms-server  
+  
+ Sat Aug 18 2018 12:27:10 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:13.740Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-18T16:27:13.741Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/rooms-server/tokens  
+  
+ Sat Aug 18 2018 12:27:13 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:14.484Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-18T16:27:14.485Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/rooms-server  
+  
+ Sat Aug 18 2018 12:27:14 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:15.279Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/fahadhayat/Desktop/rooms-server'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2018-08-18T16:27:25.956Z] Fetching environment
+[debug] [2018-08-18T16:27:25.971Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/437052152424:getServerAppConfig  
+  
+ Sat Aug 18 2018 12:27:25 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:25.972Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/437052152424/clients/_:getWebAppConfig  
+  
+ Sat Aug 18 2018 12:27:25 GMT-0400 (EDT)
+[debug] [2018-08-18T16:27:26.382Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-18T16:27:26.383Z] Starting @google-cloud/functions-emulator
+[debug] [2018-08-18T16:27:26.967Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: dist
+[info] ✔  hosting: Local server: http://localhost:5000
+
+[debug] [2018-08-18T16:27:40.895Z] Parsing function triggers
+[info] [hosting] Rewriting / to local function app
