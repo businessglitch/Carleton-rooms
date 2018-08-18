@@ -1,0 +1,15 @@
+<app-header [activeTab]="currentTab"></app-header>
+
+<div class="container">
+    <div class="card university-card" style="width: 20rem;" *ngFor="let university of universitiesList" >
+        <div>
+            <img class="image" src= {{university.Image}} alt="Card image cap">
+        </div>
+        <div class="content university-body">
+            <button (click)="getBuildings(university.Enabled)" type="button" [ngClass]="{'disabled' : university.Enabled === false}"class="btn btn-primary">{{university.Name}}</button>
+            <p class="description">{{university.Name}} is located in  {{university.City}}, {{university.Country}}</p>
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>
