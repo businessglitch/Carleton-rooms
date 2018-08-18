@@ -1,8 +1,10 @@
 # Rooms 
 
-## Rooms hosted on firebase is a project that displays class schedules for every room at Carleton University
+## Rooms 
+	Hosted on firebase is a project that displays class schedules for every room at Carleton University
 
-### Can be accessed here https://rooms-server.firebaseapp.com/
+## Access
+	Can be accessed here https://rooms-server.firebaseapp.com/
 
 ## Build
 	1. Do an npm install in functions folder
