@@ -15,6 +15,7 @@ SEAN Stack
 * [Sqlite](https://sqlite.org/) - Database
 * [Firebase](https://firebase.google.com/docs/hosting) - Hosting
 
+Data was scrapped from Carleton's public classroom calendars https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT
 
 ### Prerequisites
 Dependencies you need to install the software
