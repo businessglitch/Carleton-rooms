@@ -8,7 +8,6 @@ These instructions will get you a copy of the project and have the app running o
 
 ### Built With
 SEAN Stack
-![SEAN Stack](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 
 * [Angular](https://angularjs.org/) - The web framework used
 * [Node/Express](https://expressjs.com) - Backend framework
