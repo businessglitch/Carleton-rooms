@@ -22,7 +22,7 @@ Dependencies you need to install the software
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/businessglitch/rooms-firebase.git`
+- Clone this repo to your local machine using `https://github.com/businessglitch/Carleton-rooms.git`
 
 #### Setup
 > move into the project directory
