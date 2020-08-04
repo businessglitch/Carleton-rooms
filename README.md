@@ -1,10 +1,10 @@
 	
 # Rooms
- The web-app allows you to view schedules on a caledar for all classrooms at Carleton University  {Place architecture diagram here}
+ The web-app allows you to view schedules on a calendar for all classrooms at Carleton University  {Place architecture diagram here}
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and  have the app running on your local machine for development and testing purposes. 
+These instructions will get you a copy of the project and have the app running on your local machine for development and testing purposes. 
 
 ### Built With
 SEAN Stack
@@ -25,7 +25,7 @@ Dependencies you need to install the software
 - Clone this repo to your local machine using `https://github.com/businessglitch/rooms-firebase.git`
 
 #### Setup
-> move in to the project directory
+> move into the project directory
 
 ```shell
 $ cd rooms
@@ -61,7 +61,7 @@ $ firebase serve --only
 
 ## Support
 
-Reach out to me at one of the following places!
+Feel free to reach out to me at:
 
 - Instagram at <a href="https://www.instagram.com/fahoodii_h/" target="_blank">`@fahoodii_h`</a>
 - LinkedIn at <a href="https://www.linkedin.com/in/fahdhayat/" target="_blank">`Fahad Hayat`</a>
