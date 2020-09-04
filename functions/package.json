@@ -17,7 +17,7 @@
     "firebase-admin": "~5.12.1",
     "firebase-functions": "^1.0.3",
     "mailgun-js": "^0.13.1",
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.1.13",
     "rxjs": "^6.0.0",
     "sqlite3": "^3.1.13",
     "strict-mode": "^1.1.2",
