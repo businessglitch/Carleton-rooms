@@ -1,6 +1,8 @@
 	
 # Rooms
  The web-app allows you to view schedules on a calendar for all classrooms at Carleton University  {Place architecture diagram here}
+ 
+ DEMO: https://rooms-server.web.app/
 
 ## Getting Started
 
