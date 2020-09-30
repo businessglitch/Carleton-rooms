@@ -13,6 +13,9 @@ SEAN Stack
 * [Node/Express](https://expressjs.com) - Backend framework
 * [Sqlite](https://sqlite.org/) - Database
 * [Firebase](https://firebase.google.com/docs/hosting) - Hosting
+* [Calendar](https://fullcalendar.io/) - Calendar Used
+
+
 
 Data was scrapped from Carleton's public classroom calendars https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT
 
